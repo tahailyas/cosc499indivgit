@@ -6,7 +6,7 @@ public class sortedString {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String[] exampleArray = {"COSC499", "Mads", "Football", "Rugby", "Cricket", "Soccer"};
+		String[] exampleArray = {"Taha", "Baseball", "Football", "Rugby", "Cricket", "Soccer"};
 	      int size = exampleArray.length;
 
 	      for(int i = 0; i<size-1; i++) {
